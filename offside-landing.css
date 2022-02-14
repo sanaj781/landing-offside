@@ -1,0 +1,50 @@
+.bm-logo {
+  height: 50px;
+  width: 100px;
+}
+.bm-logo img {
+  width: 100px;
+}
+thead {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 25px;
+}
+.main-bm {
+  background: #fff97a;
+  border: 2px solid red;
+}
+.price-bm {
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 500;
+  color: #555;
+  text-align: center;
+}
+.register-bm {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  background: #f74342;
+  font-weight: 800;
+  font-size: 11px;
+  letter-spacing: -0.1px;
+  padding: 4px 6px 2px;
+}
+tbody tr:nth-child(2n + 3) {
+  background: #fafafa;
+}
+table td {
+  text-align: center;
+  border: none;
+  border-collapse: collapse;
+  padding: 10px;
+}
+table {
+  border-collapse: collapse;
+}
+table tbody tr {
+  border-bottom: 1px solid #e9e9e9;
+}
